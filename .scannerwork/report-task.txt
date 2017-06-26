@@ -1,0 +1,6 @@
+projectKey=org.sonarqube.WhiteHousePetitions3.0.1
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube.WhiteHousePetitions3.0.1
+ceTaskId=AVyTwLXpe-dEobT4_Zr4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVyTwLXpe-dEobT4_Zr4
